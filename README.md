@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sajid
+# Hi there 👋, my name is Sajid
 
 Skills:  JS / HTML / CSS / PYTHONE / C / C++ / JAVA
 
